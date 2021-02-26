@@ -1,6 +1,6 @@
 ---
 title: "HW2"
-author: "Your Name (ID)"
+author: "耿皓畇(H24081341)"
 output: html_document
 ---
 
