@@ -23,7 +23,7 @@ The sample median of the variable Petail.With is 1.30000
 # Problem 3: Draw a histogram for the variable "Sepal.Length"
 
 ```{r}
-hist(iris$Petal.Length)
+hist(iris$Sepal.Length)
 ```
 
 
